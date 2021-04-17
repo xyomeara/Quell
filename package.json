@@ -11,6 +11,22 @@
   },
   "keywords": [],
   "contributors": [
+        {
+      "name": "Andrei Cabrera",
+      "url": "https://github.com/Andreicabrerao"
+    },
+    {
+      "name": "Dasha Kondratenko",
+      "url": "https://github.com/dasha-k"
+    },
+    {
+      "name": "Derek Sirola",
+      "url": "https://github.com/dsirola1"
+    },
+    {
+      "name": "Xiao Yu Omeara",
+      "url": "https://github.com/xyomeara"
+    },
     {
       "name": "Mike Lauri",
       "url": "https://github.com/MichaelLauri"
@@ -26,22 +42,6 @@
     {
       "name": "Nick Kruckenberg",
       "url": "https://github.com/kruckenberg"
-    },
-    {
-      "name": "Andrei Cabrera",
-      "url": "https://github.com/Andreicabrerao"
-    },
-    {
-      "name": "Dasha Kondratenko",
-      "url": "https://github.com/dasha-k"
-    },
-    {
-      "name": "Derek Sirola",
-      "url": "https://github.com/dsirola1"
-    },
-    {
-      "name": "Xiao Yu Omeara",
-      "url": "https://github.com/xyomeara"
     }
   ],
   "license": "ISC",
